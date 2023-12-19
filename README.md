@@ -31,7 +31,7 @@ https://theoburton.github.io/Bootstrap-Portfolio/
 
 Clicking on each Image will take you to the respective project.
 
-![Screenshot of the Carousel](Images/screenshot.png)Images/Screenshot.png
+![Screenshot of the Carousel](assets/Screenshot.png)Images/Screenshot.png
 
 
 ## Credits
