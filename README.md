@@ -29,7 +29,7 @@ https://theoburton.github.io/Bootstrap-Portfolio/
 
 ## Usage 
 
-Clicking on each Image will take you to the respective project.
+Clicking on each Image on the work carousel will take you to the respective project.
 
 ![Screenshot of the Carousel](assets/Screenshot.png)Images/Screenshot.png
 
