@@ -38,7 +38,7 @@
     background: white;
     border-radius: 50%;
     position: relative;
-    background-image: url(/Images/moon.png);
+    background-image: url("/Images/moon.png");
 }
 
 .satellite,
