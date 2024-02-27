@@ -62,6 +62,7 @@ Carousel
 Accordion
 Cards
 
-
+## Contact 
+For additional questions, you can contact me via GitHub https://github.com/TheoBurton or email theo.burton2@hotmail.com.
 
 
